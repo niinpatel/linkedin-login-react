@@ -1,0 +1,47 @@
+{
+  "name": "linkedin-login-react",
+  "version": "1.0.0",
+  "description": "Login Button for LinkedIn",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [
+    "LinkedIn",
+    "Oauth2",
+    "React",
+    "Login",
+    "Authentication"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niinpatel/linkedin-login-react.git"
+  },
+  "author": "Nitin Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niinpatel/linkedin-login-react/issues"
+  },
+  "homepage": "https://github.com/niinpatel/linkedin-login-react#readme",
+  "peerDependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "dependencies": {
+    "react-scripts": "^1.1.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-runtime": "^6.26.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
