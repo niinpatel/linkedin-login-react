@@ -1,6 +1,6 @@
 {
   "name": "linkedin-login-for-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Login Button for LinkedIn",
   "main": "build/index.js",
   "scripts": {
