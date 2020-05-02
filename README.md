@@ -32,6 +32,7 @@ class LoginWithLinkedin extends React.Component {
         clientId="xxx"
         callback={this.callbackLinkedIn}
         className={styles.linkedin}
+        scope={["r_liteprofile","r_emailaddress"]}
         text="Login With LinkedIn"
       />
     );
